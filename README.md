@@ -12,3 +12,4 @@ How to run the scratch project?
 
 This is the final project for my Early College Course EDCU 212 Coding for Non Coders.
 
+Mr. JULES, MS. Amy and Mr. Stewart were a big part of my success in this course.
